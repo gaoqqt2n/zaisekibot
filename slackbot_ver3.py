@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #ver1にすぐ戻る人を色を変えて表示する機能を追加
 #ver2は廃盤
-
+ 
 import dbReaderWriter
 import os
 from PIL import Image, ImageDraw, ImageFont
